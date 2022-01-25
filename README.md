@@ -1,1 +1,0 @@
-# Data-scraper-about-a-place-from-google-maps
